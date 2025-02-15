@@ -1,4 +1,4 @@
-#Connect – A Django-Based Social Media Platform
+# Connect – A Django-Based Social Media Platform
 
 Connect is a web-based social media platform built using Django. It allows users to create and interact with posts, manage profiles, and engage with the community through likes and comments.
 
